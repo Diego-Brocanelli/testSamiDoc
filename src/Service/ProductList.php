@@ -7,13 +7,13 @@ namespace App\Service;
  */
 class ProductList
 {
-	/**
-	 * Get product list.
-	 * 
-	 * @return array
-	 */
-	public function getProductList()
-	{
-		return array();
-	}
+    /**
+     * Get product list.
+     * 
+     * @return array
+     */
+    public function getProductList()
+    {
+        return array();
+    }
 }

@@ -7,14 +7,14 @@ namespace App\Controller;
  */
 class ProductController
 {
-	/**
-	 * Get data product.
-	 * 
-	 * @param  int $productId Referring to the id of the product
-	 * @return Array
-	 */
-	public function getProduct($productId)
-	{
-		return array();
-	}
+    /**
+     * Get data product.
+     * 
+     * @param  int $productId Referring to the id of the product
+     * @return Array
+     */
+    public function getProduct($productId)
+    {
+        return array();
+    }
 }
