@@ -1,5 +1,5 @@
 {
-    "name": "App\\Controller\\AppController",
+    "name": "App\\Controller\\ProductController",
     "line": 8,
     "short_desc": "",
     "long_desc": "",
@@ -14,9 +14,9 @@
         ]
     },
     "namespace": "App\\Controller",
-    "file": "\/home\/diego\/vhost\/testSamiDoc\/docs\/..\/src\/Controller\/AppController.php",
+    "file": "\/home\/diego\/vhost\/testSamiDoc\/docs\/..\/src\/Controller\/ProductController.php",
     "relative_file": null,
-    "hash": "892daef709d4434852a2a18b54078cc6d2a4cb2a",
+    "hash": "7847dd0f27c1266e2648ca05c78d9dec1a82b3fe",
     "parent": null,
     "modifiers": "Stmt_Class",
     "is_trait": false,

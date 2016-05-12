@@ -198,7 +198,7 @@ class __TwigTemplate_5ed42a3e111addd5a4f7e7714d1011522cfd2504948e43e9447b86fbbce
         ob_start();
         try {
             // line 28
-            $context["__internal_ca3c0c74c9ee10e916e2d51d8872d4fcf2236e8b151ad249d8e87fc4e0393ebd"] = $this;
+            $context["__internal_2d6a48248ef0c202c4712b078d274a3bd257dabbd1a426dc70aa4592c86854f4"] = $this;
             // line 29
             echo "
     ";
@@ -224,7 +224,7 @@ class __TwigTemplate_5ed42a3e111addd5a4f7e7714d1011522cfd2504948e43e9447b86fbbce
                     // line 32
                     if ($this->getAttribute($context["hint"], "class", array())) {
                         // line 33
-                        echo $context["__internal_ca3c0c74c9ee10e916e2d51d8872d4fcf2236e8b151ad249d8e87fc4e0393ebd"]->getclass_link($this->getAttribute($context["hint"], "name", array()));
+                        echo $context["__internal_2d6a48248ef0c202c4712b078d274a3bd257dabbd1a426dc70aa4592c86854f4"]->getclass_link($this->getAttribute($context["hint"], "name", array()));
                     } elseif ($this->getAttribute(                    // line 34
 $context["hint"], "name", array())) {
                         // line 35
@@ -364,7 +364,7 @@ $context["hint"], "name", array())) {
         ob_start();
         try {
             // line 62
-            $context["__internal_3a320ba80568bc2d23deda530290b6f1ff83ab2e85f1578eef1f70be7a0aaf8d"] = $this->loadTemplate("macros.twig", "macros.twig", 62);
+            $context["__internal_99e54e1625a15b695f550e7924057c1758e465a3463dce1aa0801de87fa35076"] = $this->loadTemplate("macros.twig", "macros.twig", 62);
             // line 63
             echo "(";
             // line 64
@@ -386,7 +386,7 @@ $context["hint"], "name", array())) {
             foreach ($context['_seq'] as $context["_key"] => $context["parameter"]) {
                 // line 65
                 if ($this->getAttribute($context["parameter"], "hashint", array())) {
-                    echo $context["__internal_3a320ba80568bc2d23deda530290b6f1ff83ab2e85f1578eef1f70be7a0aaf8d"]->gethint_link($this->getAttribute($context["parameter"], "hint", array()));
+                    echo $context["__internal_99e54e1625a15b695f550e7924057c1758e465a3463dce1aa0801de87fa35076"]->gethint_link($this->getAttribute($context["parameter"], "hint", array()));
                     echo " ";
                 }
                 // line 66
@@ -437,7 +437,7 @@ $context["hint"], "name", array())) {
         ob_start();
         try {
             // line 74
-            $context["__internal_01fd60bbbb13e94b39cad72ece02524715c0e574c0c9fc438b27e06c603f5ed4"] = $this;
+            $context["__internal_9db1bdb85dabf4639367ebeb2f668ddba48cc1b2fbe1593c6f14453c306992da"] = $this;
             // line 75
             echo "
     <div class=\"container-fluid underlined\">
@@ -454,13 +454,13 @@ $context["hint"], "name", array())) {
                 if ($this->getAttribute($context["class"], "isInterface", array())) {
                     // line 81
                     echo "                        <em>";
-                    echo $context["__internal_01fd60bbbb13e94b39cad72ece02524715c0e574c0c9fc438b27e06c603f5ed4"]->getclass_link($context["class"], true);
+                    echo $context["__internal_9db1bdb85dabf4639367ebeb2f668ddba48cc1b2fbe1593c6f14453c306992da"]->getclass_link($context["class"], true);
                     echo "</em>
                     ";
                 } else {
                     // line 83
                     echo "                        ";
-                    echo $context["__internal_01fd60bbbb13e94b39cad72ece02524715c0e574c0c9fc438b27e06c603f5ed4"]->getclass_link($context["class"], true);
+                    echo $context["__internal_9db1bdb85dabf4639367ebeb2f668ddba48cc1b2fbe1593c6f14453c306992da"]->getclass_link($context["class"], true);
                     echo "
                     ";
                 }

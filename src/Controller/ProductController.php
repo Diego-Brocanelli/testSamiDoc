@@ -5,7 +5,7 @@ namespace App\Controller;
 /**
  * @author Diego Brocanelli <contato@diegobrocanelli.com.br>
  */
-class AppController
+class ProductController
 {
 	/**
 	 * Get data product.
