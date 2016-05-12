@@ -1,4 +1,4 @@
 # Demonstração da API Sami
-### [Link de acesso para o repositório Sami](https://github.com/FriendsOfPHP/Sami)
+### [Link de acesso para o repositório da API](https://github.com/FriendsOfPHP/Sami)
 
-### Repositŕio destinado ao post dobre a tulização da api Sami, clique aqui para acessar o post.
+### Repositório destinado ao post sobre a utilização da API Sami, [clique aqui para acessar o post](http://www.diegobrocanelli.com.br/php/gerando-documentacao-do-seu-sistema-utilizando-a-api-sami/).
