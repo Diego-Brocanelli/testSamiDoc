@@ -1,0 +1,51 @@
+{
+    "name": "App\\Service\\ProductList",
+    "line": 8,
+    "short_desc": "",
+    "long_desc": "",
+    "hint": null,
+    "tags": {
+        "author": [
+            [
+                "Diego",
+                "Brocanelli",
+                "<contato@diegobrocanelli.com.br>"
+            ]
+        ]
+    },
+    "namespace": "App\\Service",
+    "file": "\/home\/diego\/vhost\/testSamiDoc\/docs\/..\/src\/Service\/ProductList.php",
+    "relative_file": null,
+    "hash": "6696d87f3da6f238afc4770a8365f0e044f91313",
+    "parent": null,
+    "modifiers": "Stmt_Class",
+    "is_trait": false,
+    "is_interface": false,
+    "aliases": [],
+    "errors": [],
+    "interfaces": [],
+    "traits": [],
+    "properties": [],
+    "methods": {
+        "getProductList": {
+            "name": "getProductList",
+            "line": 15,
+            "short_desc": "Get product list.",
+            "long_desc": "",
+            "hint": [
+                [
+                    "array",
+                    false
+                ]
+            ],
+            "hint_desc": "",
+            "tags": [],
+            "modifiers": "1",
+            "is_by_ref": "",
+            "exceptions": [],
+            "errors": [],
+            "parameters": []
+        }
+    },
+    "constants": []
+}

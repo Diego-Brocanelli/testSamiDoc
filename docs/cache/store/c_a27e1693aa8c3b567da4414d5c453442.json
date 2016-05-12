@@ -1,0 +1,82 @@
+{
+    "name": "App\\Model\\Product",
+    "line": 8,
+    "short_desc": "",
+    "long_desc": "",
+    "hint": null,
+    "tags": {
+        "author": [
+            [
+                "Diego",
+                "Brocanelli",
+                "<contato@diegobrocanelli.com.br>"
+            ]
+        ]
+    },
+    "namespace": "App\\Model",
+    "file": "\/home\/diego\/vhost\/testSamiDoc\/docs\/..\/src\/Model\/Product.php",
+    "relative_file": null,
+    "hash": "a0a036322baf68ef744cef88a50de462543637dc",
+    "parent": null,
+    "modifiers": "Stmt_Class",
+    "is_trait": false,
+    "is_interface": false,
+    "aliases": [],
+    "errors": [],
+    "interfaces": [],
+    "traits": [],
+    "properties": [],
+    "methods": {
+        "setProduct": {
+            "name": "setProduct",
+            "line": 22,
+            "short_desc": "Set product name.",
+            "long_desc": "",
+            "hint": null,
+            "hint_desc": null,
+            "tags": [],
+            "modifiers": "1",
+            "is_by_ref": "",
+            "exceptions": [],
+            "errors": [],
+            "parameters": {
+                "product": {
+                    "name": "product",
+                    "line": 22,
+                    "short_desc": "the product name",
+                    "long_desc": null,
+                    "hint": [
+                        [
+                            "array",
+                            false
+                        ]
+                    ],
+                    "tags": [],
+                    "modifiers": "",
+                    "default": null,
+                    "is_by_ref": false
+                }
+            }
+        },
+        "getProduct": {
+            "name": "getProduct",
+            "line": 32,
+            "short_desc": "Get product name.",
+            "long_desc": "",
+            "hint": [
+                [
+                    "string",
+                    false
+                ]
+            ],
+            "hint_desc": "",
+            "tags": [],
+            "modifiers": "1",
+            "is_by_ref": "",
+            "exceptions": [],
+            "errors": [],
+            "parameters": []
+        }
+    },
+    "constants": []
+}

@@ -1,0 +1,68 @@
+{
+    "name": "App\\Controller\\AppController",
+    "line": 8,
+    "short_desc": "",
+    "long_desc": "",
+    "hint": null,
+    "tags": {
+        "author": [
+            [
+                "Diego",
+                "Brocanelli",
+                "<contato@diegobrocanelli.com.br>"
+            ]
+        ]
+    },
+    "namespace": "App\\Controller",
+    "file": "\/home\/diego\/vhost\/testSamiDoc\/docs\/..\/src\/Controller\/AppController.php",
+    "relative_file": null,
+    "hash": "892daef709d4434852a2a18b54078cc6d2a4cb2a",
+    "parent": null,
+    "modifiers": "Stmt_Class",
+    "is_trait": false,
+    "is_interface": false,
+    "aliases": [],
+    "errors": [],
+    "interfaces": [],
+    "traits": [],
+    "properties": [],
+    "methods": {
+        "getProduct": {
+            "name": "getProduct",
+            "line": 16,
+            "short_desc": "Get data product.",
+            "long_desc": "",
+            "hint": [
+                [
+                    "Array",
+                    false
+                ]
+            ],
+            "hint_desc": "",
+            "tags": [],
+            "modifiers": "1",
+            "is_by_ref": "",
+            "exceptions": [],
+            "errors": [],
+            "parameters": {
+                "productId": {
+                    "name": "productId",
+                    "line": 16,
+                    "short_desc": "Referring to the id of the product",
+                    "long_desc": null,
+                    "hint": [
+                        [
+                            "int",
+                            false
+                        ]
+                    ],
+                    "tags": [],
+                    "modifiers": "",
+                    "default": null,
+                    "is_by_ref": false
+                }
+            }
+        }
+    },
+    "constants": []
+}
